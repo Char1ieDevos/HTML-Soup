@@ -1,0 +1,23 @@
+data_structures.yam1
+
+string_value = "Hello, YAML!"
+integer_value: 42
+float: 3.14159
+boolean_value: true
+null_value: null
+
+a_list:
+	- item 2
+	- item 2
+	- item 3
+	
+a_dictinary:
+	key1: value 1
+	key2: value 2
+	key3: value 3
+	
+nested_structures:
+	level1:
+	leven2:
+		- element1
+		- element2
